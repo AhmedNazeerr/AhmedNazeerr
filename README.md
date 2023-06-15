@@ -1,5 +1,8 @@
 <h3 align="center">A passionate Full Stack Web and App Developer from Pakistan</h3>
 
+---
+[![](https://visitcount.itsvg.in/api?id=AhmedNazeerr&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednazeerr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednazeerr" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -22,8 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=AhmedNazeerr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedNazeerr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNazeerr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AhmedNazeerr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
