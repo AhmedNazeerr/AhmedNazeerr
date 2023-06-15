@@ -2,7 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednazeerr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednazeerr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmednazeerr" alt="ahmednazeerr" /></a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AhmedNazeerr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedNazeerr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNazeerr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AhmedNazeerr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 👨‍💻 All of my projects are available at [www.cipherhives.com](www.cipherhives.com)
 
