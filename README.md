@@ -1,4 +1,4 @@
-<h3 align="center">I'm Ahmed,A full-time & Full-stack Freelance Web and App developer 👨‍💻 working remotely since 2022 🚀</h3>
+<h3 align="center">I'm Muhammad Ahmed, A full-time & Full-stack Freelance Web and App developer 👨‍💻 working remotely since 2022 🚀</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednazeerr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednazeerr" /> </p>
