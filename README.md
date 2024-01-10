@@ -7,13 +7,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=AhmedNazeerr&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 
-- 👨‍💻 All of my projects are available at [www.cipherhives.com](www.cipherhives.com)
-
 - ⚡ Fun fact **I think,I'm a dumb developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-nazeer-114662255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nazeer-114662255/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmednazeer1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nazeer-114662255/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ahmednazeer_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmednazeer_/" height="30" width="40" /></a>
 </p>
 
