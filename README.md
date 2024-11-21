@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednazeerr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednazeerr" /> </p>
 
-- 💬 Ask me about **Nodejs,React,Vuejs,Expressjs,Nextjs**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **info@venre.org**
 
